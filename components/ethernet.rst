@@ -144,7 +144,7 @@ Configuration examples
 
 .. note::
 
-    WROVER version of Olimex POE cards change CLK to ping GPIO0, configuration must be `clk_mode: GPIO0_OUT`.
+    WROVER version of Olimex POE cards change CLK to pin GPIO0, configuration must be `clk_mode: GPIO0_OUT`.
 
 
 **Olimex ESP32-EVB**:
